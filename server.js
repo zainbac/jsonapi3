@@ -16,7 +16,7 @@ app.get('/', function (req, res) {
     {
       title: '',
       url:
-        'https://www.safe8well.my/image/safe8well/image/data/MobileApps/8oEk8KXL1591024920.png',
+        'https://www.meemuslim.com.my/wp-content/uploads/2019/01/Makanan-Halal-Menurut-Islam-800x480.jpg',
       description: '',
       id: 2,
     },
