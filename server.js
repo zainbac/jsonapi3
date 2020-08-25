@@ -53,7 +53,7 @@ app.get('/api/courses', (req, res) => {
     {
       title: ' ',
       url:
-        'https://www.safe8well.my/image/safe8well/image/data/MobileApps/SShjS56J1591438165.png',
+        'https://www.safe8well.my/image/safe8welll/image/data/MobileApps/SShjS56J1591438165.png',
       description: ' ',
       id: 8,
     },
