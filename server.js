@@ -15,8 +15,7 @@ app.get('/', function (req, res) {
     },
     {
       title: '',
-      url:
-        'https://www.meemuslim.com.my/wp-content/uploads/2019/01/Makanan-Halal-Menurut-Islam-800x480.jpg',
+      url: 'https://i.ibb.co/kBqFyv6/13.png',
       description: '',
       id: 2,
     },
