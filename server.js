@@ -22,37 +22,26 @@ app.get('/', function (req, res) {
 
     {
       title: ' ',
-      url:
-        'https://www.safe8well.my/image/safe8well/image/data/MobileApps/4u3pzu5R1591428659.png',
+      url: 'https://i.ibb.co/WxtrC2w/15.png',
       description: '',
       id: 4,
     },
 
     {
       title: ' ',
-      url:
-        'https://www.safe8well.my/image/safe8well/image/data/MobileApps/dLmTGMj11591428660.png',
+      url: 'https://i.ibb.co/B4TgvFN/17.png',
       description: ' ',
       id: 6,
     },
     {
       title: ' ',
-      url:
-        'https://www.safe8well.my/image/safe8well/image/data/MobileApps/e9L6QbPJ1591428662.png',
+      url: 'https://i.ibb.co/1MwSfHr/19.png',
       description: ' ',
       id: 7,
     },
     {
       title: ' ',
-      url:
-        'https://www.safe8well.my/image/safe8well/image/data/MobileApps/MDeXRaeI1591429578.png',
-      description: ' ',
-      id: 8,
-    },
-    {
-      title: ' ',
-      url:
-        'https://www.safe8well.my/image/safe8welll/image/data/MobileApps/SShjS56J1591438165.png',
+      url: 'https://i.ibb.co/q0s0ZRz/dddd.png',
       description: ' ',
       id: 8,
     },
