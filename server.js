@@ -8,8 +8,7 @@ app.get('/', function (req, res) {
   res.send([
     {
       title: ' ',
-      url:
-        'https://www.safe8well.my/image/safe8well/image/data/MobileApps/A829rZyk1591027128.png',
+      url: 'https://i.ibb.co/NWMFFgB/UBUNTU.png',
       description: ' ',
       id: 1,
     },
