@@ -7,42 +7,28 @@ const app = express();
 app.get('/', function (req, res) {
   res.send([
     {
-      title: ' ',
-      url: 'https://i.ibb.co/NWMFFgB/UBUNTU.png',
-      description: ' ',
-      id: 1,
+      name: 'Muhammad khazaain',
+      email: 'miyah.myles@gmail.com',
+      position: 'Tecnician Area Kuala Lumpur',
+      photo: 'https://i.ibb.co/jyJ1Hdk/pilot1.png',
     },
     {
-      title: '',
-      url: 'https://i.ibb.co/kBqFyv6/13.png',
-      description: '',
-      id: 2,
-    },
-
-    {
-      title: ' ',
-      url: 'https://i.ibb.co/WxtrC2w/15.png',
-      description: '',
-      id: 4,
-    },
-
-    {
-      title: ' ',
-      url: 'https://i.ibb.co/B4TgvFN/17.png',
-      description: ' ',
-      id: 6,
+      name: 'Arif Ariffin',
+      email: 'june.cha@gmail.com',
+      position: 'Tecnician Area Kuala Lumpur',
+      photo: 'https://i.ibb.co/yqMpY2Y/pilot2.png',
     },
     {
-      title: ' ',
-      url: 'https://i.ibb.co/1MwSfHr/19.png',
-      description: ' ',
-      id: 7,
+      name: 'Muhammad Fad',
+      email: 'iida.niskanen@gmail.com',
+      position: 'Tecnician Area Kuala Lumpur',
+      photo: 'https://i.ibb.co/QF07LBb/pilot-3.png',
     },
     {
-      title: ' ',
-      url: 'https://i.ibb.co/2Py3PJg/13.png',
-      description: ' ',
-      id: 8,
+      name: 'Ricie neilson',
+      email: 'renee.sims@gmail.com',
+      position: 'Tecnician Area Kuala Lumpur',
+      photo: 'https://i.ibb.co/H4Bt05z/pilot-4.png',
     },
   ]);
 });
