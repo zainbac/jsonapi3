@@ -14,19 +14,19 @@ app.get('/', function (req, res) {
     },
     {
       name: 'Arif Ariffin',
-      nophone: '0134472956',
+      nophone: '0134472954',
       position: 'Tecnician Area Kuala Lumpur',
       photo: 'https://i.ibb.co/yqMpY2Y/pilot2.png',
     },
     {
       name: 'Muhammad Fad',
-      nophone: '0134472956',
+      nophone: '0134472952',
       position: 'Tecnician Area Kuala Lumpur',
       photo: 'https://i.ibb.co/QF07LBb/pilot-3.png',
     },
     {
       name: 'Ricie neilson',
-      nophone: '0134472956',
+      nophone: '0134472951',
       position: 'Tecnician Area Kuala Lumpur',
       photo: 'https://i.ibb.co/H4Bt05z/pilot-4.png',
     },
